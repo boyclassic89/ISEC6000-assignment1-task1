@@ -41,10 +41,10 @@ This README contains thorough instructions for setting up the initial infrastruc
 - Log in to your git account.
 - Click on create repository.
 - Here's the details of how repository has been created:
-  Name:"ISEC6000-devops-project"
-  Visibility: Public
-  Description: ISEC6000 Assignment Repository
-  Readme: You are already here
+  - Name:"ISEC6000-devops-project"
+  - Visibility: Public
+  - Description: ISEC6000 Assignment Repository
+  - Readme: You are already here
 -Now pushing all these into git, use the following commands:
     -git init
     -git add .
